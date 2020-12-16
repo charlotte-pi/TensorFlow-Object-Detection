@@ -1,15 +1,15 @@
 item {
     id: 1
-    name: 'green'
+    name: 'apple'
 }
 
 item {
     id: 2
-    name: 'yellow'
+    name: 'banana'
 }
 
 item {
     id: 3
-    name: 'red'
+    name: 'orange'
 }
 
