@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>20210107_091032.jpg</filename>
-	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/20210107_091032.jpg</path>
+	<filename>frigo_9.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/frigo_9.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,54 +11,6 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>cheese</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1867</xmin>
-			<ymin>387</ymin>
-			<xmax>2898</xmax>
-			<ymax>1418</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cheese</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2827</xmin>
-			<ymin>830</ymin>
-			<xmax>3227</xmax>
-			<ymax>1446</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cheese</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3086</xmin>
-			<ymin>827</ymin>
-			<xmax>3711</xmax>
-			<ymax>1424</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cheese</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3258</xmin>
-			<ymin>784</ymin>
-			<xmax>3883</xmax>
-			<ymax>1365</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>bottle</name>
 		<pose>Unspecified</pose>

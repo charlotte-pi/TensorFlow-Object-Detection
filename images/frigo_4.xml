@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>20210107_091019.jpg</filename>
-	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/20210107_091019.jpg</path>
+	<filename>frigo_4.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/frigo_4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>cream</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>cream</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -192,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>cream</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -201,30 +201,6 @@
 			<ymin>1049</ymin>
 			<xmax>1926</xmax>
 			<ymax>1703</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cream</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1647</xmin>
-			<ymin>1058</ymin>
-			<xmax>1722</xmax>
-			<ymax>1674</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cream</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>9</xmin>
-			<ymin>2228</ymin>
-			<xmax>217</xmax>
-			<ymax>2749</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>bottle</folder>
-	<filename>1611058205191.jpg</filename>
-	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images_a_labelliser/bottle/1611058205191.jpg</path>
+	<folder>images</folder>
+	<filename>bottle_1.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/bottle_1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>cream</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

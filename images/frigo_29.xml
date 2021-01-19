@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>IMG_20210105_115355.jpg</filename>
-	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/IMG_20210105_115355.jpg</path>
+	<filename>frigo_29.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/frigo_29.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,18 +33,6 @@
 			<ymin>1753</ymin>
 			<xmax>1667</xmax>
 			<ymax>2334</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>grated cheese</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>1747</ymin>
-			<xmax>542</xmax>
-			<ymax>2165</ymax>
 		</bndbox>
 	</object>
 	<object>

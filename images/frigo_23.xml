@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>IMG_20210105_115346.jpg</filename>
-	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/IMG_20210105_115346.jpg</path>
+	<filename>frigo_23.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/frigo_23.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -30,8 +30,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1443</xmin>
-			<ymin>2212</ymin>
-			<xmax>2547</xmax>
+			<ymin>2142</ymin>
+			<xmax>2560</xmax>
 			<ymax>2308</ymax>
 		</bndbox>
 	</object>

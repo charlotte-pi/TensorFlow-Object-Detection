@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>IMG_20210107_084521.jpg</filename>
-	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/IMG_20210107_084521.jpg</path>
+	<filename>frigo_44.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/frigo_44.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,18 +21,6 @@
 			<ymin>2700</ymin>
 			<xmax>2385</xmax>
 			<ymax>3496</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bacon</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2193</xmin>
-			<ymin>1817</ymin>
-			<xmax>2943</xmax>
-			<ymax>2475</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -57,18 +45,6 @@
 			<ymin>2950</ymin>
 			<xmax>760</xmax>
 			<ymax>3608</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cream</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>550</ymin>
-			<xmax>901</xmax>
-			<ymax>1525</ymax>
 		</bndbox>
 	</object>
 </annotation>
