@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cream</folder>
+	<filename>1611058205241.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images_a_labelliser/cream/1611058205241.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>855</xmin>
+			<ymin>1179</ymin>
+			<xmax>1776</xmax>
+			<ymax>3725</ymax>
+		</bndbox>
+	</object>
+</annotation>

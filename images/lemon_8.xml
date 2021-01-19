@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lemon</folder>
+	<filename>lemon_8.png</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images_a_labelliser/lemon/lemon_8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3600</width>
+		<height>2282</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>281</ymin>
+			<xmax>2135</xmax>
+			<ymax>2282</ymax>
+		</bndbox>
+	</object>
+</annotation>
