@@ -5,11 +5,90 @@ item {
 
 item {
     id: 2
-    name: 'banana'
+    name: 'milk'
 }
 
 item {
     id: 3
-    name: 'orange'
+    name: 'beer'
+}
+
+item {
+    id: 4
+    name: 'cream'
+}
+
+
+item {
+    id: 5
+    name: 'bottle'
+}
+
+
+item {
+    id: 6
+    name: 'cheese'
+}
+
+
+item {
+    id: 7
+    name: 'yoghurt'
+}
+
+
+item {
+    id: 8
+    name: 'carrot'
+}
+
+
+item {
+    id: 9
+    name: 'lemon'
+}
+
+
+item {
+    id: 10
+    name: 'compote'
+}
+
+item {
+    id: 11
+    name: 'tomato'
+}
+
+item {
+    id: 12
+    name: 'apple'
+}
+
+item {
+    id: 13
+    name: 'can'
+}
+
+item {
+    id: 14
+    name: 'grated cheese'
+}
+
+
+item {
+    id: 15
+    name: 'butter'
+}
+
+
+item {
+    id: 16
+    name: 'bacon'
+}
+
+
+item {
+    id: 17
+    name: 'mushroom'
 }
 
