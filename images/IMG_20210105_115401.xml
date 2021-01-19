@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_20210105_115401.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/IMG_20210105_115401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grated cheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>2950</ymin>
+			<xmax>676</xmax>
+			<ymax>3400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cream</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1425</ymin>
+			<xmax>751</xmax>
+			<ymax>2204</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>987</ymin>
+			<xmax>660</xmax>
+			<ymax>1721</ymax>
+		</bndbox>
+	</object>
+</annotation>

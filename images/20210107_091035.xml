@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20210107_091035.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/20210107_091035.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>836</xmin>
+			<ymin>2455</ymin>
+			<xmax>1342</xmax>
+			<ymax>2890</ymax>
+		</bndbox>
+	</object>
+</annotation>
