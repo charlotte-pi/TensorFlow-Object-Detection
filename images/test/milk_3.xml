@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>milk_3.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/milk_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1118</xmin>
+			<ymin>875</ymin>
+			<xmax>1547</xmax>
+			<ymax>1850</ymax>
+		</bndbox>
+	</object>
+</annotation>

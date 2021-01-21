@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mushroom</folder>
+	<filename>mushroom_10.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images_a_labelliser/mushroom/mushroom_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mushroom</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1104</ymin>
+			<xmax>2189</xmax>
+			<ymax>3300</ymax>
+		</bndbox>
+	</object>
+</annotation>

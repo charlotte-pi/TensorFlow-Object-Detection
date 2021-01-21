@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frigo_46.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/frigo_46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2268</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yoghurt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1810</xmin>
+			<ymin>2416</ymin>
+			<xmax>2114</xmax>
+			<ymax>2741</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yoghurt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2114</xmin>
+			<ymin>2374</ymin>
+			<xmax>2264</xmax>
+			<ymax>2649</ymax>
+		</bndbox>
+	</object>
+</annotation>

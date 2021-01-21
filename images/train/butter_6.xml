@@ -1,0 +1,38 @@
+<annotation>
+	<folder>butter</folder>
+	<filename>butter_6.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images_a_labelliser/butter/1611058205717.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>butter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1787</ymin>
+			<xmax>1105</xmax>
+			<ymax>3000</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>butter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2164</xmin>
+			<ymin>1246</ymin>
+			<xmax>3000</xmax>
+			<ymax>2350</ymax>
+		</bndbox>
+	</object>
+</annotation>

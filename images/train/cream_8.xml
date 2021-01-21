@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>cream_8.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/cream_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1030</xmin>
+			<ymin>1</ymin>
+			<xmax>2035</xmax>
+			<ymax>2958</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2805</xmin>
+			<ymin>442</ymin>
+			<xmax>3000</xmax>
+			<ymax>2433</ymax>
+		</bndbox>
+	</object>
+</annotation>

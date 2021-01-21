@@ -1,0 +1,26 @@
+<annotation>
+	<folder>carrot</folder>
+	<filename>carrot_87.png</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images_a_labelliser/carrot/Image_87.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2542</width>
+		<height>1595</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>890</ymin>
+			<xmax>1437</xmax>
+			<ymax>1595</ymax>
+		</bndbox>
+	</object>
+</annotation>

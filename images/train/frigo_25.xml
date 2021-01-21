@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frigo_25.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/frigo_25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mushroom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1518</xmin>
+			<ymin>2262</ymin>
+			<xmax>2976</xmax>
+			<ymax>3404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1201</xmin>
+			<ymin>2250</ymin>
+			<xmax>2310</xmax>
+			<ymax>2421</ymax>
+		</bndbox>
+	</object>
+</annotation>

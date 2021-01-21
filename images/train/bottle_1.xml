@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bottle_1.jpg</filename>
+	<path>/home/charli/Documents/Projet/Projet_GIT/AI Training/TensorFlow-Object-Detection/images/bottle_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>8</ymin>
+			<xmax>1726</xmax>
+			<ymax>3837</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2547</xmin>
+			<ymin>812</ymin>
+			<xmax>3000</xmax>
+			<ymax>2162</ymax>
+		</bndbox>
+	</object>
+</annotation>
